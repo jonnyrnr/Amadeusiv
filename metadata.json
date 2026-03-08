@@ -1,0 +1,5 @@
+{
+  "name": "Amadeus Focus",
+  "description": "A standalone wellness app with a hidden RPG synth terminal and DAW features.",
+  "requestFramePermissions": ["microphone"]
+}
